@@ -1,4 +1,7 @@
-# Breadth First Search
+## EX.NO: 02
+## DATE: 28-04-2022
+## <p align="center">Breadth First Search</p>
+
 ## AIM
 
 To develop an algorithm to find the route from the source to the destination point using breadth-first search.
@@ -29,8 +32,8 @@ End of program.
 
 
 ## PROGRAM
-### Developed By: HARISH.G
-### Register Number: 212220230021
+### Developed By: krishna moorthy S
+### Register Number: 212220230025
 ```python
 %matplotlib inline
 import matplotlib.pyplot as plt
